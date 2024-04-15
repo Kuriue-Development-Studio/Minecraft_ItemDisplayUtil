@@ -18,6 +18,10 @@ public abstract class CustomDisplay {
         itemDisplay.setInterpolationDuration(1);
     }
 
+    public void setEnd() {
+        isend = true;
+    }
+
     public void remove() {
         itemDisplay.remove();
     }
