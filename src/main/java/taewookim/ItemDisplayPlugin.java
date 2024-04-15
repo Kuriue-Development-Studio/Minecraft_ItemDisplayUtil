@@ -1,6 +1,8 @@
-import org.bukkit.entity.Entity;
+package taewookim;
+
 import org.bukkit.plugin.java.JavaPlugin;
 import org.bukkit.scheduler.BukkitRunnable;
+import taewookim.CustomDisplay;
 
 import java.util.ArrayList;
 
